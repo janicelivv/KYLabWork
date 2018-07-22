@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KYLabConDemo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio_KYLabDemo</string>
+    <string name="nav_header_subtitle">开源软硬件协会@邮箱</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">ActionBar Setting</string>
+    <string name="menu_ui">1.UI控件类</string>
+    <string name="menu_date">2.数据持久化</string>
+    <string name="menu_audio">3.多媒体类</string>
+    <string name="menu_photo">4.图像处理类</string>
+    <string name="menu_components">5.内置组件类</string>
+    <string name="menu_communication">6.无线通讯类</string>
+    <string name="menu_settings">7.手机设置</string>
+    <string name="menu_sensor">8.传感器类</string>
+
+
+</resources>
